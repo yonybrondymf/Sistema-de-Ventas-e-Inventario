@@ -11,19 +11,28 @@ MODULOS
 1. Acceso al Sistema
 2. Inventario
 3. Mantenimiento
+
 - Categorias
 - Productos
 - Clientes
 - Mesas
+
 4. Caja
+
 - Apertura
 - Cierre
+
 5. Movimientos
+
 - Ventas
 - Ordenes
+
 6. Reportes
+
 - Ventas
+
 7. Administrador
+
 - Usuarios
 - Permisos
 
